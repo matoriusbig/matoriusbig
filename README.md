@@ -37,7 +37,7 @@
 </p>
 
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-✨ Computer Science Student | `Blue Team`, `Intelligence`, `Cloud Security` <br>
+✨ CS Student 💻 | Blue Team 🛡️ | Threat Intel 🌎 | Cloud Security ☁ <br> ️
 ⚡ Cybersecurity Analyst ✨ <br>
 🌏 Location: Santiago, Chile 🇨🇱 <br> 
 📧 Feel free to reach me at [**m.gonzalez.cyber@outlook.com**](mailto:m.gonzalez.cyber@outlook.com)<br>
