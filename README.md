@@ -36,7 +36,7 @@
 ✨ Computer Engineer Student 💻 <br> ️
 ⚡ Cybersecurity Analyst ✨ <br>
 🌏 Location: Santiago, Chile 🇨🇱 <br> 
-📧 Feel free to reach me at [**m.gonzalez.cyber@outlook.com**](mailto:m.gonzalez.cyber@outlook.com)<br>
+📧 Feel free to reach me at: <a href="mailto:m.gonzalez.cyber@outlook.com"><strong>m.gonzalez.cyber@outlook.com</strong></a> <br>
 🛡️ I believe personal data shouldn't be weaponized by governments or corporations to manipulate our perception of reality!<br>
 <!--- Adding Tech Stack open Section -->
 
@@ -56,10 +56,7 @@ Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git
 <img src="https://img.shields.io/badge/-Cloudflare-4679A4?logo=Cloudflare&logoColor=orange&style=flat">&nbsp;
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-<!---<img src="https://img.shields.io/badge/-Android Studio-green?logo=Android&logoColor=white&style=flat"> &nbsp;
-<img src="https://img.shields.io/badge/-Jupyter-D7522D?logo=Jupyter&logoColor=white&style=flat">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-PyCharm-1ECE87?logo=pycharm&logoColor=white&style=flat"> -->
-<!--- <img src="https://img.shields.io/badge/-TensorFlow-F78900?logo=Tensorflow&logoColor=white&style=flat"> -->
+
 
 ## Certification Badges 🪶
 <img src="https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity_(CC)-00AEEF?style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2 CC">
