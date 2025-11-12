@@ -35,8 +35,7 @@
 </div>  
   </a>
 </p>
-
-👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+👨🏻‍💻 **About Me** <img src="https://github.com/user-attachments/assets/731905f6-fca4-4c50-9f75-a719ee62870f" width="350""min-width="300px" max-width="300px" width="350px" align="right"> 
 ✨ Computer Engineer Student 💻 <br> ️
 ⚡ Cybersecurity Analyst ✨ <br>
 🌏 Location: Santiago, Chile 🇨🇱 <br> 
