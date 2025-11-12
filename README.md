@@ -20,8 +20,8 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mat%C3%ADas-gonz%C3%A1lez-9434b037b/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/https://x.com/matoriusbig" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<a href="https://app.hackthebox.com/profile/2653021" target="_blank">
+<img src=https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00
 </a>
 <a href="https://instagram.com/https://www.instagram.com/matoriusbig/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
