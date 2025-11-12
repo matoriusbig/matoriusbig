@@ -59,4 +59,5 @@ Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git
 
 
 ## Certification Badges 🪶
-<img src="https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity_(CC)-00AEEF?style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2 CC">
+<a href="https://www.credly.com/badges/4a4e126b-01e0-4b14-9e30-91795958b884/public_url" target="_blank">
+<img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/53f8178b-0cb1-4a27-a6b5-e7d8d075e63b" />
