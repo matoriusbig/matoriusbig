@@ -59,5 +59,7 @@ Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git
 
 
 ## Certification Badges 🪶
+<a href="https://www.credly.com/badges/37ebf3cd-dda1-4f9d-bcc9-3c4e897dfa23/public_url">
+<img width="110" height="110" alt="I2CS__1_" src="https://github.com/user-attachments/assets/f3c4c59b-b3d7-4f57-8f5a-91d512a38028" />
 <a href="https://www.credly.com/badges/4a4e126b-01e0-4b14-9e30-91795958b884/public_url" target="_blank">
 <img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/53f8178b-0cb1-4a27-a6b5-e7d8d075e63b" />
