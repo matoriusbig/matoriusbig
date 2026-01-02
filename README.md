@@ -61,5 +61,8 @@ Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git
 ## Certification Badges 🪶
 <a href="https://www.credly.com/badges/37ebf3cd-dda1-4f9d-bcc9-3c4e897dfa23/public_url">
 <img width="110" height="110" alt="I2CS__1_" src="https://github.com/user-attachments/assets/f3c4c59b-b3d7-4f57-8f5a-91d512a38028" />
-<a href="https://www.credly.com/badges/4a4e126b-01e0-4b14-9e30-91795958b884/public_url" target="_blank">
-<img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/53f8178b-0cb1-4a27-a6b5-e7d8d075e63b" />
+<a href="https://my.isc2.org/digitalcert?_gl=1*orj9gr*_gcl_au*MjE1NTA1ODI4LjE3NjYxOTQ4MTcuMTQ5Njg3ODkyMS4xNzY2MTk1MjMxLjE3NjYxOTU1ODU.*_ga*NzEzNTcyNDg3LjE3NjU3NjY0MjY.*_ga_7V1PGHSZT0*czE3NjczOTU0ODckbzckZzEkdDE3NjczOTcyNDAkajQ0JGwwJGg2MzE3NjA5Mw..">
+<img width="110" height="110" alt="CC_logo" src="https://github.com/user-attachments/assets/e71d4763-d320-49a0-81f7-fd48e86f4bda" />
+<a href="https://www.credly.com/badges/8ac1ae34-0b79-4334-a26a-69ddb7102201/public_url">
+<img width="110" height="110" alt="google-cybersecurity-professional-certificate-v-2" src="https://github.com/user-attachments/assets/ecf1947e-2d2d-4fe2-a49b-e4fd5ffe4742" />
+
