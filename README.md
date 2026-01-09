@@ -36,8 +36,8 @@
 ✨ Computer Engineer Student 💻 <br> ️
 ⚡ Cybersecurity Analyst ✨ <br>
 🌏 Location: Santiago, Chile 🇨🇱 <br> 
-📧 Feel free to reach me at: <a href="mailto:m.gonzalez.cyber@outlook.com"><strong>m.gonzalez.cyber@outlook.com</strong></a> <br>
-🛡️ I believe personal data shouldn't be weaponized by governments or corporations to manipulate our perception of reality!<br>
+📧 Feel free to reach me at: <a href="mailto:contact@matoriusbig.me"><strong>m.gonzalez.cyber@outlook.com</strong></a> <br>
+🔴 Red Team
 <!--- Adding Tech Stack open Section -->
 
 
