@@ -9,7 +9,6 @@
 </code>
 </div>
 <p align="center">
-  <b>[ "Always verify, never trust." ]</b>
   <br>
 </p>
 
