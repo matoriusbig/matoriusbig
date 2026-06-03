@@ -33,10 +33,9 @@
 </p>
 👨🏻‍💻  About Me <img src="https://github.com/user-attachments/assets/731905f6-fca4-4c50-9f75-a719ee62870f" width="350""min-width="300px" max-width="300px" width="350px" align="right"> 
 ✨ Computer Engineer Student 💻 <br> ️
-⚡ Cybersecurity Analyst ✨ <br>
-🌏 Location: Santiago, Chile 🇨🇱 <br> 
-📧 Feel free to reach me at: <a href="mailto:contact@matoriusbig.me"><strong>m.gonzalez.cyber@outlook.com</strong></a> <br>
-🔴 Red Team
+⚡ Cybersecurity Certificate ✨ <br>
+🌏 Location: Chile 🇨🇱 <br> 
+📧 Feel free to reach me at: <a href="mailto:hello@mgonzalez.tech"><strong>hello@mgonzalez.tech</strong></a> <br>
 <!--- Adding Tech Stack open Section -->
 
 
