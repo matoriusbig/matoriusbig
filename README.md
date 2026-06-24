@@ -1,41 +1,28 @@
-<div align="center">
-<code>
-███╗   ███╗ █████╗ ████████╗ ██████╗ ██████╗ ██╗██╗   ██╗ ██████╗ ██████╗ ██╗ ██████╗ <br>
-████╗ ████║██╔══██╗╚══██╔══╝██╔═══██╗██╔══██╗██║██║   ██║██╔════╝ ██╔══██╗██║██╔════╝ <br>
-██╔████╔██║███████║   ██║   ██║   ██║██████╔╝██║██║   ██║╚█████╗  ██████╔╝██║██║  ███╗<br>
-██║╚██╔╝██║██╔══██║   ██║   ██║   ██║██╔══██╗██║██║   ██║ ╚═══██╗ ██╔══██╗██║██║   ██║<br>
-██║ ╚═╝ ██║██║  ██║   ██║   ╚██████╔╝██║  ██║██║╚██████╔╝██████╔╝ ██████╔╝██║╚██████╔╝<br>
-╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝ ╚═════╝ 
-</code>
-</div>
-<p align="center">
-  <br>
-</p>
-
------------------------------------------------------------
 <p align="center">
   <br>
   <div align="center">
-<a href="www.linkedin.com/in/matias-gonzalez-cybersecurity" target="_blank">
+<a href="https://www.linkedin.com/in/matiasgpinto/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://app.hackthebox.com/profile/2653021" target="_blank">
+<a href="https://profile.hackthebox.com/profile/019caf14-38b6-711d-8546-8babcca2f585" target="_blank">
 <img src=https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00
 </a>
-<a href="https://instagram.com/https://www.instagram.com/matoriusbig/" target="_blank">
+<a href="https://www.instagram.com/matoriusbig/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/@https://www.youtube.com/@Matoriusbig" target="_blank">
+<a href="https://www.youtube.com/@matoriusbig" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  </a>
+</a>
 </p>
-👨🏻‍💻  About Me <img src="https://github.com/user-attachments/assets/731905f6-fca4-4c50-9f75-a719ee62870f" width="350""min-width="300px" max-width="300px" width="350px" align="right"> 
-✨ Computer Engineer Student 💻 <br> ️
-⚡ Cybersecurity Certificate ✨ <br>
-🌏 Location: Chile 🇨🇱 <br> 
-📧 Feel free to reach me at: <a href="mailto:hello@mgonzalez.tech"><strong>hello@mgonzalez.tech</strong></a> <br>
+
+**About Me** 👨🏻‍💻 
+- Computer Engineer Student 💻 ️
+- Cybersecurity Certificate ⚡<br>
+- Location: Chile 🇨🇱< 
+- Feel free to reach me at 📧: <a href="mailto:@mgonzalez.tech"><strong>infosec@mgonzalez.tech</strong></a>
+
 <!--- Adding Tech Stack open Section -->
 
 
